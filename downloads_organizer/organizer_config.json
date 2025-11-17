@@ -1,0 +1,14 @@
+{
+    "_comment": "This is an example config if you want to use the code without editing python code.",
+    
+  "destinations": {
+    "Documents": [".pdf", ".doc", ".docx", ".txt", ".xlsx", ".csv"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp"],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Music": [".mp3", ".wav", ".aac"],
+    "Videos": [".mp4", ".mkv", ".mov", ".avi"],
+    "Installers": [".exe", ".msi", ".apk", ".deb"],
+    "Scripts": [".py", ".js", ".sh", ".ps1"],
+    "ISOs": [".iso", ".img"]
+  }
+}
